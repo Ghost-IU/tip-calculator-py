@@ -1,5 +1,7 @@
 ## Tip Calculator
 
+## [Calculate your tip HERE!](https://replit.com/@GHOSTLY95/tip-calculator-start#main.py)
+
 # Instructions
 
 If the bill was $150.00, split between 5 people, with 12% tip. 
