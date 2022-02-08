@@ -10,8 +10,6 @@ Format the result to 2 decimal places = 33.60
 
 Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 
-Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
-
 
 # Example Input
 
@@ -35,7 +33,3 @@ Each person should pay: $19.93
 2. [How to limit a float to two decimal places in Python](https://www.kite.com/python/answers/how-to-limit-a-float-to-two-decimal-places-in-python)
 
 
-
-# Solution
-
-[https://replit.com/@appbrewery/tip-calculator-end](https://replit.com/@appbrewery/tip-calculator-end)
